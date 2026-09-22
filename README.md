@@ -25,6 +25,7 @@ returns json:
   ]
 }
 ```
+## parameters
 | param | type | required | default | max | description |
 |-------|------|----------|---------|-----|-------------|
 | q | string | yes | — | — | the search query |
