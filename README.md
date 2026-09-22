@@ -1,4 +1,4 @@
-![Free](https://img.shields.io/badge/free-yes-brightgreen)
+![Free](https://img.shields.io/badge/free-yes-brightgreen) ![No API Key](https://img.shields.io/badge/api_key-not_required-blue) ![No Signup](https://img.shields.io/badge/signup-not_required-blue) ![No Limits](https://img.shields.io/badge/limits-none-brightgreen)
 ```
 user
   |
