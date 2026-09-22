@@ -24,3 +24,7 @@ returns json:
   ]
 }
 ```
+| param | type | required | default | max | description |
+|-------|------|----------|---------|-----|-------------|
+| q | string | yes | — | — | the search query |
+| c | int | no | 200 | 500 | max characters per snippet |
