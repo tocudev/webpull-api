@@ -1,17 +1,25 @@
-![Free](https://img.shields.io/badge/free-yes-brightgreen) ![No API Key](https://img.shields.io/badge/api_key-not_required-blue) ![No Signup](https://img.shields.io/badge/signup-not_required-blue) ![No Limits](https://img.shields.io/badge/limits-none-brightgreen)
+# webpull-api
 
-Use the API today completely free by just doing 
-```bash
+completely free web search api. no limits, keys, or sign up.
+
+![free](https://img.shields.io/badge/free-yes-brightgreen)
+![api key](https://img.shields.io/badge/api_key-not_required-blue)
+![signup](https://img.shields.io/badge/signup-not_required-blue)
+![limits](https://img.shields.io/badge/limits-none-brightgreen)
+
+## usage
+
 curl "https://api.webpull.tocu.click/search?q=hello"
-```
-Example of the endpoint response
+
+returns json:
+
 ```json
 {
   "results": [
     {
-      "title": "...",
-      "url": "...",
-      "snippet": "..."
+      "title": "Hello - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hello",
+      "snippet": "Hello is a salutation or greeting in the English language..."
     }
   ]
 }
