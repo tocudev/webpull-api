@@ -4,3 +4,15 @@ Use the API today completely free by just doing
 ```bash
 curl "https://api.webpull.tocu.click/search?q=hello"
 ```
+Example of the endpoint response
+```json
+{
+  "results": [
+    {
+      "title": "...",
+      "url": "...",
+      "snippet": "..."
+    }
+  ]
+}
+```
