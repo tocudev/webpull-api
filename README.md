@@ -9,8 +9,9 @@ completely free web search api. no limits, keys, or sign up.
 
 ## usage
 
+```bash
 curl "https://api.webpull.tocu.click/search?q=hello"
-
+```
 returns json:
 
 ```json
