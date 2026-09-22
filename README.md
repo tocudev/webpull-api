@@ -1,5 +1,4 @@
-# webpull-api
-completely free web search API with no limits, keys, and sign up. 
+![Free](https://img.shields.io/badge/free-yes-brightgreen)
 ```
 user
   |
