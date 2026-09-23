@@ -7,7 +7,7 @@
 curl "https://api.tocu.click/search?q=hello"
 ```
 ```bash
-curl -G "http://api.tocu.clickc/search" --data-urlencode "q=what is honeypot?"
+curl -sL -G "https://api.tocu.click/search" --data-urlencode "q=is gta6 coming out soon?"
 ```
 
 ```
