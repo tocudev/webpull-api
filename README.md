@@ -1,5 +1,3 @@
-<div align="center">
-
 <img src="card_index_3d.png" width="80" />
 
 # webpull-api
