@@ -1,4 +1,4 @@
-# webpull-api ![card_index_3d](card_index_3d.png)
+# <img src="card_index_3d.png" width="30" /> webpull-api
 completely free web search api. no limits, keys, or sign up.
 
 ## Example usage
