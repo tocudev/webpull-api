@@ -4,10 +4,10 @@
 ## Example usage
 
 ```bash
-curl "https://webpullapi.localhost.cc/search?q=hello"
+curl "https://api.tocu.click/search?q=hello"
 ```
 ```bash
-curl -G "http://webpullapi.localhost.cc/search" --data-urlencode "q=what is honeypot?"
+curl -G "http://api.tocu.clickc/search" --data-urlencode "q=what is honeypot?"
 ```
 
 ```
