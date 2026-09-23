@@ -6,6 +6,10 @@
 ```bash
 curl "https://webpullapi.localhost.cc/search?q=hello"
 ```
+```bash
+curl -G "http://localhost:5005/search" --data-urlencode "q=what is honeypot?"
+```
+
 ```
 {
   "results": [
