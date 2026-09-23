@@ -4,7 +4,7 @@ completely free web search api. no limits, keys, or sign up.
 ## Example usage
 
 ```bash
-curl "https://api.webpull.tocu.click/search?q=hello"
+curl "https://webpullapi.localhost.cc/search?q=hello"
 ```
 ```
 {
