@@ -17,7 +17,7 @@ curl "https://api.webpull.tocu.click/search?q=hello"
   ]
 }
 ```
-## parameters
+## Parameters
 | param | type | required | default | max | description |
 |-------|------|----------|---------|-----|-------------|
 | q | string | yes | — | — | the search query |
