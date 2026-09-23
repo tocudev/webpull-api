@@ -1,4 +1,3 @@
-<div align="center">
 # webpull-api
 
 ![card_index_3d](card_index_3d.png)
