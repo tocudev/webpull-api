@@ -7,12 +7,12 @@ completely free web search api. no limits, keys, or sign up.
 ![signup](https://img.shields.io/badge/signup-not_required-blue)
 ![limits](https://img.shields.io/badge/limits-none-brightgreen)
 
-## usage
+## Example usage
 
 ```bash
 curl "https://api.webpull.tocu.click/search?q=hello"
 ```
-returns json:
+Returns json
 
 ```json
 {
