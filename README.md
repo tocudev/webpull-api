@@ -31,4 +31,4 @@ curl -sL -G "https://api.tocu.click/search" --data-urlencode "q=is gta6 coming o
 By using this API, you agree to the [Terms of Service](TERMS.md). 
 This is a free service with rate limits and a security filter. See `/terms` for details.
 
-> Reminder: Your results wont be "Instant" as this is a **free** service
+> Reminder: Your results wont be "Instant" as this is a **free** service, I tried my best to make it the fastest possible API for you.
