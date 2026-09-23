@@ -27,6 +27,6 @@ curl -sL -G "https://api.tocu.click/search" --data-urlencode "q=is gta6 coming o
 | q | string | yes | — | — | the search query |
 | c | int | no | 200 | 500 | max characters per snippet |
 
-# Terms of service 
+## Terms of service 
 By using this API, you agree to the [Terms of Service](TERMS.md). 
 This is a free service with rate limits and a security filter. See `/terms` for details.
