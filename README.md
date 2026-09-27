@@ -34,3 +34,5 @@ This is a free service with rate limits and a security filter. See `/terms` for 
 > Reminder: Your results wont be "Instant" as this is a **free** service, I tried my best to make it the fastest possible API for you.
 
 <span style="color: red; font-weight: bold;">&gt;</span> This is a red arrow.
+
+<img src="websitebutton.png" width="350" />
