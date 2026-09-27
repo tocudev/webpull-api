@@ -32,3 +32,5 @@ By using this API, you agree to the [Terms of Service](TERMS.md).
 This is a free service with rate limits and a security filter. See `/terms` for details.
 
 > Reminder: Your results wont be "Instant" as this is a **free** service, I tried my best to make it the fastest possible API for you.
+
+<span style="color: red; font-weight: bold;">&gt;</span> This is my colored quote.
