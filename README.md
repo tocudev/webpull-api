@@ -1,4 +1,4 @@
-<p align="center">
+i<p align="center">
   <img src="5049.png" width="300" />
   <br />
   <img src="https://img.shields.io/badge/SearXNG-3050FF?logo=searxng&logoColor=white" />
@@ -103,52 +103,3 @@ curl -G "https://api.tocu.click/search" \
   }
 ]
 ```
-
-**Error responses:**
-
-| code | meaning |
-|------|---------|
-| `400` | Invalid parameters (e.g. `category` not in allowed list, query too long) |
-| `403` | Query blocked by the security filter |
-| `429` | Rate limit exceeded (30 requests per 60 seconds per IP) |
-| `502` | Search backend unavailable |
-
-### `GET /health`
-
-Health check. Returns `200` if the API is running.
-
-```bash
-curl "https://api.tocu.click/health"
-```
-
-```json
-{"status": "healthy"}
-```
-
-## Usage in other languages
-
-```python
-import httpx
-print(httpx.get("https://api.tocu.click/search", params={"q": "hello"}).json())
-```
-
-```js
-const r = await fetch("https://api.tocu.click/search?q=hello");
-console.log(await r.json());
-```
-
-Any HTTP client works — curl, wget, Python, JavaScript, browsers, Postman, AI agents, or anything else that can make an HTTP request.
-
-## Rate limits
-
-30 requests per 60 seconds per IP. Repeated violations result in a temporary IP ban.
-
-## Terms of service
-
-By using this API, you agree to the [Terms of Service](TERMS.md). This is a free service with rate limits and a security filter. See `/terms` for details.
-
-> **Note:** This is a free service, so results won't always be instant. Cold queries take 1–2 seconds (live search); repeated queries return instantly from cache. I've done my best to make it as fast as possible.
-
-## Sponsor
-
-If this API saves you money, consider [sponsoring the project](https://github.com/sponsors/tocudev).
