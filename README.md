@@ -7,12 +7,3 @@
 
 ``webpull-api`` Is a completely free web API that works instantly! The backend of the API is written in ``python`` And any HTTP client is supported. I hope you enjoy this API and you can read the DOCS below.
 
-## Example usage
-
-curl "https://api.tocu.click/search?q=hello"
-
-<p align="center">
-  <a href="https://awesometime.vercel.app">
-    <img src="https://awesometime.vercel.app/api" />
-  </a>
-</p>
