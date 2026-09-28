@@ -32,7 +32,7 @@ curl "https://api.tocu.click/search?q=hello"
 ```
 
 <p align="center">
-  <img src="5074.png" width="300" />
+  <img src="5078.png" width="300" />
 </p>
 
 ### `GET /`
