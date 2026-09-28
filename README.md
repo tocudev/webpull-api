@@ -12,3 +12,4 @@
 
 ```bash
 curl "https://api.tocu.click/search?q=hello"
+![Uptime](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36)
