@@ -15,7 +15,7 @@ webpull is a free search API that returns fancy and clean ``JSON``, no API key, 
   <img src="5074.png" width="300" />
 </p>
 
-test ```bash
+```bash
 curl "https://api.tocu.click/search?q=hello"
 ```
 
