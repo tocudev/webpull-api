@@ -1,40 +1,9 @@
 # <img src="5049.png" width="300" />
-
-
 ``webpull-api`` Is a completely free web API that works instantly! The backend of the API is written in ``python`` And any HTTP client is supported. I hope you enjoy this API and you can read the DOCS below.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 ## Example usage
 
 ```bash
 curl "https://api.tocu.click/search?q=hello"
-```
-```bash
-curl -sL -G "https://api.tocu.click/search" --data-urlencode "q=is gta6 coming out soon?"
-```
-
-```
-{
-  "results": [
-    {
-      "title": "Hello - Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hello",
-      "snippet": "Hello is a salutation or greeting in the English language..."
-    }
-  ]
-}
-```
-## Parameters
-| param | type | required | default | max | description |
-|-------|------|----------|---------|-----|-------------|
-| q | string | yes | — | — | the search query |
-| c | int | no | 200 | 500 | max characters per snippet |
-
-## Terms of service 
-By using this API, you agree to the [Terms of Service](TERMS.md). 
-This is a free service with rate limits and a security filter. See `/terms` for details.
-
-> Reminder: Your results wont be "Instant" as this is a **free** service, I tried my best to make it the fastest possible API for you.
-
-<span style="color: red; font-weight: bold;">&gt;</span> This is a red arrow.
-
-[![Website](https://img.shields.io/badge/WEBSITE-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-website.com)
