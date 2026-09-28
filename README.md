@@ -8,5 +8,4 @@
 </a>
 </p>
 
-``webpull-api`` Is a completely free web API that works instantly! The backend of the API is written in ``python`` And any HTTP client is supported. I hope you enjoy this API and you can read the DOCS below.
-
+`webpull-api` is a completely free web API that works instantly. The backend is written in `python`, and any HTTP client is supported. I hope you enjoy this API — you can read the docs below.
