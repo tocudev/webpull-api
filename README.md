@@ -11,3 +11,5 @@
 `webpull-api` is a completely free web API that works instantly. The backend is written in `python`, and any HTTP client is supported. I hope you enjoy this API — you can read the docs below.
 
 webpull is a free search API that returns fancy and clean ``JSON``, no API key, no signup and no billing.
+
+``GET /`` 
