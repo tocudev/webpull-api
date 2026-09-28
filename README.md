@@ -12,4 +12,4 @@
 
 webpull is a free search API that returns fancy and clean ``JSON``, no API key, no signup and no billing.
 
-``GET /`` 
+``GET /`` here is a example request: ``curl "https://api.tocu.click/"`` run to view all available endpoints.
