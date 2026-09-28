@@ -9,7 +9,6 @@
 
 ## Example usage
 
-```bash
 curl "https://api.tocu.click/search?q=hello"
 
 <p align="center">
