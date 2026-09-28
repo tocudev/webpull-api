@@ -8,7 +8,3 @@
 
 ``webpull-api`` Is a completely free web API that works instantly! The backend of the API is written in ``python`` And any HTTP client is supported. I hope you enjoy this API and you can read the DOCS below.
 
-<div style="background-color: #1e1e1e; border-radius: 12px; padding: 16px; font-family: monospace; color: #d4d4d4;">
-  <code>curl "https://api.tocu.click/search?q=hello"</code>
-</div>
-
