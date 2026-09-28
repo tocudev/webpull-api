@@ -31,7 +31,9 @@ curl "https://api.tocu.click/search?q=hello"
 ]
 ```
 
-## Endpoints
+<p align="center">
+  <img src="5074.png" width="300" />
+</p>
 
 ### `GET /`
 
