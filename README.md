@@ -11,3 +11,9 @@
 
 ```bash
 curl "https://api.tocu.click/search?q=hello"
+
+<p align="center">
+  <a href="https://awesometime.vercel.app">
+    <img src="https://awesometime.vercel.app/api" />
+  </a>
+</p>
