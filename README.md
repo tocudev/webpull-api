@@ -1,4 +1,4 @@
-i<p align="center">
+<p align="center">
   <img src="5049.png" width="300" />
   <br />
   <img src="https://img.shields.io/badge/SearXNG-3050FF?logo=searxng&logoColor=white" />
@@ -103,3 +103,7 @@ curl -G "https://api.tocu.click/search" \
   }
 ]
 ```
+
+<p align="center">
+  <img src="5074.png" width="300" />
+</p>
