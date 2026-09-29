@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="5049.png" width="300" />
+  <img src="5229.png" width="300" />
   <br />
   <img src="https://img.shields.io/badge/SearXNG-3050FF?logo=searxng&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
