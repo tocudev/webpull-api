@@ -137,3 +137,10 @@ Here's the hidden content. It can include **markdown** and code blocks.
 - [Endpoints](#endpoints)
 - [Rate Limits](#rate-limits)
 - [Terms](#terms)
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+```
