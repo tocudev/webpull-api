@@ -1,7 +1,7 @@
 mm<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="5049-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="5049-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="5049.png">
+    <source media="(prefers-color-scheme: light)" srcset="5049.png">
     <img alt="WebPull" src="5049.png" width="300">
   </picture>
   <br />
