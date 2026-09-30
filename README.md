@@ -144,3 +144,7 @@ graph TD;
     A-->C;
     B-->D;
 ```
+
+Text with a footnote[^1].
+
+[^1]: The footnote text.
