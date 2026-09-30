@@ -116,3 +116,10 @@ curl -G "https://api.tocu.click/search" \
 
 > [!TIP]
 > HI
+
+<details>
+<summary>Click to see the full API reference</summary>
+
+Here's the hidden content. It can include **markdown** and code blocks.
+
+</details>
