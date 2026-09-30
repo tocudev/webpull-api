@@ -107,3 +107,8 @@ curl -G "https://api.tocu.click/search" \
 <p align="center">
   <img src="5074.png" width="300" />
 </p>
+
+<div style="border-left: 4px solid #a371f7; padding: 10px; background-color: #1c1c1c; border-radius: 6px; margin: 10px 0;">
+  <p style="margin: 0; color: #a371f7; font-weight: bold;">💬 Important</p>
+  <p style="margin: 5px 0 0 0; color: #d4d4d4;">The success of this project depends on the community's contributions. If you have any knowledge of the Discord API, please consider contributing to this project. See <a href="CONTRIBUTING.md">CONTRIBUTING.md</a> for more information.</p>
+</div>
