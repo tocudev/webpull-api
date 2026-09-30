@@ -1,4 +1,4 @@
-<p align="center">
+mm<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="5049-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="5049-light.png">
@@ -122,7 +122,7 @@ curl -G "https://api.tocu.click/search" \
 > HI
 
 <details>
-<summary>Click to see the full API reference</summary>
+<summary>Click to view examples</summary>
 
 Here's the hidden content. It can include **markdown** and code blocks.
 
