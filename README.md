@@ -131,3 +131,9 @@ Here's the hidden content. It can include **markdown** and code blocks.
 - [x] Search endpoint
 - [x] Rate limiting
 - [ ] Economy module
+
+## Contents
+- [Quick Start](#quick-start)
+- [Endpoints](#endpoints)
+- [Rate Limits](#rate-limits)
+- [Terms](#terms)
