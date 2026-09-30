@@ -1,4 +1,4 @@
-mm<p align="center">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="5049.png">
     <source media="(prefers-color-scheme: light)" srcset="5049.png">
