@@ -15,7 +15,7 @@
 `webpull-api` is a completely free web API that works instantly. The backend is written in `python`, and any HTTP client is supported. I hope you enjoy this API — you can read the docs below.
 
 webpull is a free search API that returns fancy and clean ``JSON``, no API key, no signup.
-> [!IMPORTANT]
+> [!NOTE]
 > This is NOT a paid service, please open a issue if you are reporting abuse!
 
 <p align="center">
@@ -37,6 +37,12 @@ curl "https://api.tocu.click/search?q=hello"
   }
 ]
 ```
+<details>
+<summary>Click to view examples</summary>
+
+Here's the hidden content. It can include **markdown** and code blocks.
+
+</details>
 
 <p align="center">
   <img src="5078.png" width="300" />
