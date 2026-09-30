@@ -110,3 +110,6 @@ curl -G "https://api.tocu.click/search" \
 
 > [!NOTE]
 > hi gay
+
+> [!TIP]
+> HI
