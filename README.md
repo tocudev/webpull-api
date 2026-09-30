@@ -123,3 +123,7 @@ curl -G "https://api.tocu.click/search" \
 Here's the hidden content. It can include **markdown** and code blocks.
 
 </details>
+
+- [x] Search endpoint
+- [x] Rate limiting
+- [ ] Economy module
