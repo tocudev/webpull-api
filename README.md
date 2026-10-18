@@ -37,13 +37,6 @@ curl "https://api.tocu.click/search?q=hello"
   }
 ]
 ```
-<details>
-<summary>Click to view examples</summary>
-
-Here's the hidden content. It can include **markdown** and code blocks.
-
-</details>
-
 <p align="center">
   <img src="5078.png" width="300" />
 </p>
