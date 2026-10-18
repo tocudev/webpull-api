@@ -1,3 +1,5 @@
+> [!WARNING]
+> This project is archived. It wont receive updates, i will try my best to keep it running
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="5049.png">
